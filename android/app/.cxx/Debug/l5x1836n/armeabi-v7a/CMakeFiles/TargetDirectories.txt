@@ -1,0 +1,2 @@
+H:/TailorMade/android/app/.cxx/Debug/l5x1836n/armeabi-v7a/CMakeFiles/edit_cache.dir
+H:/TailorMade/android/app/.cxx/Debug/l5x1836n/armeabi-v7a/CMakeFiles/rebuild_cache.dir

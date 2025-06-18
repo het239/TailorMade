@@ -1,0 +1,2 @@
+H:/TailorMade/android/app/.cxx/Debug/l5x1836n/x86/CMakeFiles/edit_cache.dir
+H:/TailorMade/android/app/.cxx/Debug/l5x1836n/x86/CMakeFiles/rebuild_cache.dir
